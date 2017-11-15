@@ -1,0 +1,16 @@
+{
+    "projectName": "JenkinsCI",
+    "username": "sender@sender.com",
+    "id": "12301770-c9d8-11e7-8121-e973224f304e",
+    "namespace": "",
+    "environment": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "C:\\Users\\AL1817\\workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

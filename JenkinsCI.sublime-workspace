@@ -1,0 +1,760 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Lead",
+				"LeadFunnelPage1\t[Visualforce Page]"
+			],
+			[
+				"Page",
+				"PageReference\t[Standard Apex Class]"
+			],
+			[
+				"command",
+				"apex:commandLink"
+			],
+			[
+				"pageB",
+				"apex:pageBlockTable"
+			],
+			[
+				"funnel",
+				"funnelLeads"
+			],
+			[
+				"funn",
+				"funnelDetails"
+			],
+			[
+				"set",
+				"PUBLIC setRedirect(Boolean redirect) \tSystem.PageReference"
+			],
+			[
+				"selec",
+				"selectedFunnelType"
+			],
+			[
+				"sele",
+				"selectedFunnelType"
+			],
+			[
+				"out",
+				"apex:outputLink"
+			],
+			[
+				"fil",
+				"PUBLIC filterStr\tString"
+			],
+			[
+				"getEle",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"consol",
+				"console_log"
+			],
+			[
+				"value",
+				"value"
+			],
+			[
+				"o",
+				"onchange\t(String)"
+			],
+			[
+				"st",
+				"status\t(String)"
+			],
+			[
+				"stye",
+				"styleClass\t(String)"
+			],
+			[
+				"la",
+				"layout\t(String)"
+			],
+			[
+				"end",
+				"endDt"
+			],
+			[
+				"Data",
+				"DataWrapper"
+			],
+			[
+				"hea",
+				"headerClass\t(String)"
+			],
+			[
+				"headr",
+				"headerValue\t(String)"
+			],
+			[
+				"header",
+				"headerValue\t(String)"
+			],
+			[
+				"heade",
+				"headerValue\t(String)"
+			],
+			[
+				"sty",
+				"styleClass\t(String)"
+			],
+			[
+				"col",
+				"columns\t(Integer)"
+			],
+			[
+				"page",
+				"apex:pageBlockSection"
+			],
+			[
+				"head",
+				"headerValue\t(String)"
+			],
+			[
+				"se",
+				"apex:selectOptions"
+			],
+			[
+				"syste",
+				"System"
+			],
+			[
+				"is",
+				"PUBLIC isBlank(String str) \tBoolean"
+			],
+			[
+				"lead",
+				"LeadSource \tPicklist"
+			],
+			[
+				"in",
+				"Inquiry_Flag__c \tCheckbox"
+			],
+			[
+				"adr",
+				"ADR_1__c \tPicklist"
+			],
+			[
+				"ass",
+				"assert\tWeave Apex System.Assert"
+			],
+			[
+				"ld",
+				"ld"
+			],
+			[
+				"bt",
+				"BT_Campaign_Id__c \tLookup"
+			],
+			[
+				"Campaign",
+				"Campaign\t[Sobject Name]"
+			],
+			[
+				"m",
+				"MQL__c \tCheckbox"
+			],
+			[
+				"Mat",
+				"Math\t[Standard Apex Class]"
+			],
+			[
+				"Id",
+				"Id\t[Standard Apex Class]"
+			],
+			[
+				"va",
+				"PUBLIC valueOf(Object o) \tString"
+			],
+			[
+				"old",
+				"oldMap"
+			],
+			[
+				"ol",
+				"oldMap"
+			],
+			[
+				"Trigger",
+				"Trigger\tWeave a Template Trigger"
+			],
+			[
+				"isU",
+				"isUpdate"
+			],
+			[
+				"for",
+				"forQuery\tWeave For Loop with SOQL query"
+			],
+			[
+				"eail",
+				"emailGenerator"
+			],
+			[
+				"exe",
+				"executeBatch"
+			],
+			[
+				"state",
+				"stateNames"
+			],
+			[
+				"L",
+				"Lead"
+			],
+			[
+				"Cam",
+				"CampMem"
+			],
+			[
+				"web",
+				"webcastId__c"
+			],
+			[
+				"Regis",
+				"Registration_type__c"
+			],
+			[
+				"Ev",
+				"EventTableWrapper"
+			],
+			[
+				"VW",
+				"VWCommunitiesRegUtility\t[Custom Apex Class]"
+			],
+			[
+				"conta",
+				"PUBLIC contains(String str) \tBoolean"
+			],
+			[
+				"BA",
+				"base64_Id__c"
+			],
+			[
+				"if",
+				"If"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/AL1817/workspace/JenkinsCI"
+	],
+	"file_history":
+	[
+		"/C/Users/AL1817/workspace/Lightning Org/src/build/build.xml",
+		"/C/Users/AL1817/workspace/Lightning Org/src/bitbucket-pipelines.yml",
+		"/C/Users/AL1817/workspace/Lightning Org/src/classes/ExpensesController.cls",
+		"/C/Users/AL1817/workspace/ArticWolf CypherDen/src/triggers/CampaignMember_Trigger.trigger",
+		"/C/Users/AL1817/workspace/ArticWolf CypherDen/src/pages/LeadFunnelPage.page",
+		"/C/Users/AL1817/workspace/ArticWolf CypherDen/src/pages/LeadFunnelPage.page-meta.xml",
+		"/C/Users/AL1817/workspace/ArticWolf CypherDen/src/classes/AWTestDataFactory.cls",
+		"/C/Users/AL1817/workspace/ArticWolf CypherDen/src/classes/LeadTriggerHandler.cls",
+		"/C/Users/AL1817/workspace/ArticWolf CypherDen/src/classes/BatchCleanUpLeadActivity.cls",
+		"/C/Users/AL1817/workspace/ArticWolf CypherDen/src/pages/BatchCleanUpLeadActivityUI.page",
+		"/C/Users/AL1817/workspace/ArticWolf CypherDen/src/classes/LeadFunnelControllerTest.cls",
+		"/C/Users/AL1817/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Users/AL1817/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+		"/C/Users/AL1817/AppData/Roaming/Sublime Text 3/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/C/Users/AL1817/workspace/ArticWolf CypherDen/src/pages/LeadFunnelPage1.page-meta.xml",
+		"/C/Users/AL1817/workspace/ArticWolf CypherDen/src/classes/LeadTriggerHandler_Test.cls",
+		"/C/Users/AL1817/workspace/ArticWolf CypherDen/src/classes/ActivityTriggerHandlerTest.cls",
+		"/C/Users/AL1817/workspace/ArticWolf CypherDen/src/classes/ActivityTriggerHandler.cls",
+		"/C/Users/AL1817/workspace/ArticWolf CypherDen/src/triggers/reassignLeads.trigger",
+		"/C/Users/AL1817/workspace/ArticWolf CypherDen/src/classes/AWLeadNurtureToOpenBatch_Test.cls",
+		"/C/Users/AL1817/workspace/ArticWolf CypherDen/src/classes/AWLeadNurtureToOpenBatch.cls",
+		"/C/Users/AL1817/workspace/ArticWolf CypherDen/src/classes/AWNTestDataFactory.cls",
+		"/C/Users/AL1817/workspace/ArticWolf CypherDen/src/classes/RejectLeadController.cls",
+		"/C/Users/AL1817/workspace/ArticWolf CypherDen/src/classes/AcceptLeadController.cls",
+		"/C/Users/AL1817/AppData/Roaming/Sublime Text 3/Packages/SublimeAStyleFormatter/Default (Windows).sublime-keymap",
+		"/C/Users/AL1817/Downloads/apex-07L29000005ZZlHEAW.log",
+		"/C/Users/AL1817/Desktop/Venturewell/vwApp.js",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWCommunitiesRemoteController.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/pages/VWCommunitiesSignUp.page",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWCommunitiesHomeUtility.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWCommunitiesMailManagement.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWCommunitiesSignUpController.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWCommunitiesLoginController.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWCommunitiesSelfRegWrapper.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/pages/VWCommunitiesSelfReg.page",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWCommunitiesRegistrationController.cls",
+		"/C/Users/AL1817/Downloads/retrieve_09S29000000dAU9EAM/flows/Lead_Stage_Manager-21.flow",
+		"/C/Users/AL1817/Downloads/retrieve_09S29000000dAU9EAM/flows/Marketing_Urgency_Process-4.flow",
+		"/C/Users/AL1817/Downloads/retrieve_09S29000000dAU9EAM/flows/ADR_Performance_manager-6.flow",
+		"/C/Users/AL1817/Downloads/retrieve_09S29000000dAU9EAM/flows/Sales_Alert_Notification_Lead-2.flow",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/CommunitiesSelfRegController.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWCommunitiesHomeController.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWTestDataFactory.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/pages/VWCommunitiesHome.page",
+		"/C/Users/AL1817/Desktop/VWApp.js",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWContactDetailWrapper.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWCommunitiesRegUtility.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWCommunitiesSignUpUtility.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWUserAccessUtility.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWCommunitiesSignUpUtility.cls-meta.xml",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/pages/VWCommunitiesLogin.page",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/SendEmailActivation.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWSendEmailActivation.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWUserProvisionTest.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VW_SendEmailActivation.cls",
+		"/C/Users/AL1817/AppData/Roaming/Sublime Text 3/Packages/User/SublimeAStyleFormatter.sublime-settings",
+		"/C/Users/AL1817/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/triggers/CommunityUserProvision_MasterTrigger.trigger",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/UserProvisionTest.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VW_TestDataFactory.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWCommunitiesMailManagement.cls-meta.xml",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/components/VWPhotoUploader.component",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWPhotoUploader.cls",
+		"/C/Users/AL1817/workspace/Venturewell Devdata/src/classes/VWRedirectToWorkBenchCntrl.cls",
+		"/C/Users/AL1817/Desktop/React Projects/ReactApp/package.json",
+		"/C/Users/AL1817/Desktop/React Projects/ReactApp/webpack.config.js",
+		"/C/Users/AL1817/Desktop/React Projects/ReactApp/index.js",
+		"/C/Users/AL1817/Desktop/React Projects/ReactApp/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "JenkinsCI.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"leadtriggerhandler",
+				"src\\classes\\LeadTriggerHandler.cls"
+			],
+			[
+				"leadfunnelde",
+				"src\\pages\\LeadFunnelDetailPage.page-meta.xml"
+			],
+			[
+				"campa",
+				"src\\triggers\\CampaignMember_Trigger.trigger"
+			],
+			[
+				"leadfunn",
+				"src\\pages\\LeadFunnelDetailPage.page"
+			],
+			[
+				"awtest",
+				"src\\classes\\AWTestDataFactory.cls"
+			],
+			[
+				"leadtr",
+				"src\\classes\\LeadTriggerHandler.cls"
+			],
+			[
+				"batchcleanupleadactivi",
+				"src\\pages\\BatchCleanUpLeadActivityUI.page"
+			],
+			[
+				"batch",
+				"src\\classes\\BatchCleanUpLeadActivity.cls"
+			],
+			[
+				"leadfu",
+				"src\\classes\\LeadFunnelControllerTest.cls"
+			],
+			[
+				"leadf",
+				"src\\classes\\LeadFunnelController.cls"
+			],
+			[
+				"activitytriggerhandler",
+				"src\\classes\\ActivityTriggerHandlerTest.cls"
+			],
+			[
+				"awle",
+				"src\\classes\\AWLeadNurtureToOpenBatch_Test.cls"
+			],
+			[
+				"awleadnurturetoopenbatch",
+				"src\\classes\\AWLeadNurtureToOpenBatch_Test.cls"
+			],
+			[
+				"awnt",
+				"src\\classes\\AWNTestDataFactory.cls"
+			],
+			[
+				"testfa",
+				"src\\classes\\AWTestDataFactory.cls"
+			],
+			[
+				"rejectleadcontroller",
+				"src\\classes\\RejectLeadController.cls"
+			],
+			[
+				"acceptleadcontroller",
+				"src\\classes\\AcceptLeadController.cls"
+			],
+			[
+				"reass",
+				"src\\triggers\\reassignLeads.trigger"
+			],
+			[
+				"vwcommunitiesmailmanagement",
+				"src\\classes\\VWCommunitiesMailManagement.cls"
+			],
+			[
+				"vwcommunitieshomeutility",
+				"src\\classes\\VWCommunitiesHomeUtility.cls"
+			],
+			[
+				"vwcommunitiesremotecontroller",
+				"src\\classes\\VWCommunitiesRemoteController.cls"
+			],
+			[
+				"vwcommunitiessignup",
+				"src\\pages\\VWCommunitiesSignUp.page"
+			],
+			[
+				"vwcommunitiesselfregwrapper",
+				"src\\classes\\VWCommunitiesSelfRegWrapper.cls"
+			],
+			[
+				"vwcommunitiesselfreg",
+				"src\\pages\\VWCommunitiesSelfReg.page"
+			],
+			[
+				"vwsignup",
+				"src\\classes\\VWCommunitiesSignUpController.cls"
+			],
+			[
+				"vwcommunitieslogincontroller",
+				"src\\classes\\VWCommunitiesLoginController.cls"
+			],
+			[
+				"vwcommunitieslogin",
+				"src\\pages\\VWCommunitiesLogin.page"
+			],
+			[
+				"vwcommunitiesregistrationcontroller",
+				"src\\classes\\VWCommunitiesRegistrationController.cls"
+			],
+			[
+				"selfreg",
+				"src\\classes\\CommunitiesSelfRegController.cls"
+			],
+			[
+				"testdata",
+				"src\\classes\\VWTestDataFactory.cls"
+			],
+			[
+				"testdat",
+				"src\\classes\\VWTestDataFactory.cls"
+			],
+			[
+				"vwtestdatafactory",
+				"src\\classes\\VWTestDataFactory.cls"
+			],
+			[
+				"vwcommunitieshomecontroller",
+				"src\\classes\\VWCommunitiesHomeController.cls"
+			],
+			[
+				"vwcommunitiessignupcontroller",
+				"src\\classes\\VWCommunitiesSignUpController.cls"
+			],
+			[
+				"vwcommunitiesh",
+				"src\\pages\\VWCommunitiesHome.page"
+			],
+			[
+				"vwcontactdetailwrapper",
+				"src\\classes\\VWContactDetailWrapper.cls"
+			],
+			[
+				"signupcontroller",
+				"src\\classes\\VWCommunitiesSignUpController.cls"
+			],
+			[
+				"vwuseraccessutility",
+				"src\\classes\\VWUserAccessUtility.cls"
+			],
+			[
+				"vwcommunitiesreg",
+				"src\\classes\\VWCommunitiesRegUtility.cls"
+			],
+			[
+				"vwcommunitiesl",
+				"src\\classes\\VWCommunitiesLoginController.cls"
+			],
+			[
+				"vwcommunitiessignuputility",
+				"src\\classes\\VWCommunitiesSignUpUtility.cls"
+			],
+			[
+				"vwcommunitieshome",
+				"src\\pages\\VWCommunitiesHome.page"
+			],
+			[
+				"vwcommunitiesregutility",
+				"src\\classes\\VWCommunitiesRegUtility.cls"
+			],
+			[
+				"send",
+				"src\\classes\\SendEmailActivation.cls"
+			],
+			[
+				"senda",
+				"src\\classes\\SendEmailActivation.cls"
+			],
+			[
+				"vwsendemailactivation",
+				"src\\classes\\VWSendEmailActivation.cls"
+			],
+			[
+				"vwuserprovisiontest",
+				"src\\classes\\VWUserProvisionTest.cls"
+			],
+			[
+				"vw_testdatafactory",
+				"src\\classes\\VW_TestDataFactory.cls"
+			],
+			[
+				"userprovisiontest",
+				"src\\classes\\UserProvisionTest.cls"
+			],
+			[
+				"communityuserprovision_mastertrigger",
+				"src\\triggers\\CommunityUserProvision_MasterTrigger.trigger"
+			],
+			[
+				"selfregw",
+				"src\\classes\\VWCommunitiesSelfRegWrapper.cls"
+			],
+			[
+				"vwcommu",
+				"src\\pages\\VWCommunitiesSelfReg.page"
+			],
+			[
+				"vwcomm",
+				"src\\classes\\VWCommunitiesMailManagement.cls"
+			],
+			[
+				"vwcommunitiesho",
+				"src\\classes\\VWCommunitiesHomeController.cls"
+			],
+			[
+				"vwcommunit",
+				"src\\pages\\VWCommunitiesSignUp.page"
+			],
+			[
+				"vwcommuitiesselfregwrapper",
+				"src\\classes\\VWCommunitiesSelfRegWrapper.cls"
+			],
+			[
+				"vwcommunitiess",
+				"src\\classes\\VWCommunitiesSelfRegWrapper.cls"
+			],
+			[
+				"vwcommunitiesmai",
+				"src\\classes\\VWCommunitiesMailManagement.cls"
+			],
+			[
+				"vwcommunitiesre",
+				"src\\classes\\VWCommunitiesRegUtility.cls"
+			],
+			[
+				"vwcom",
+				"src\\pages\\VWCommunitiesLogin.page"
+			],
+			[
+				"vwphotouploader",
+				"src\\classes\\VWPhotoUploader.cls"
+			],
+			[
+				"vwredirecttoworkbenchcntrl",
+				"src\\classes\\VWRedirectToWorkBenchCntrl.cls"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

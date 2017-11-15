@@ -1,0 +1,5 @@
+public with sharing class ClassName1 {
+	public ClassName1() {
+		
+	}
+}
