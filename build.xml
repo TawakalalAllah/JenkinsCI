@@ -11,10 +11,10 @@
     <target name="deployCode">
       <echo level="info">Performing the deploy</echo>
       <sf:deploy
-        username="${sfdc.username}"
-        password="${sfdc.password}"
-        serverurl="${sfdc.serverurl}"
-		runAllTests="true"
+        username="${sf.username}"
+        password="${sf.password}"
+        serverurl="${sf.serverurl}"
+		    runAllTests="true"
         deployRoot="src"
         />
     </target> 
@@ -24,9 +24,9 @@
       <sf:deploy
           checkOnly="true"
           logType="Debugonly"
-          username="${sfdc.username}"
-          password="${sfdc.password}"
-          serverurl="${sfdc.serverurl}"
+          username="${sf.username}"
+          password="${sf.password}"
+          serverurl="${sf.serverurl}"
           deployRoot="${basedir}"           
           runAllTests="true" />
     </target>
