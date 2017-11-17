@@ -1,14 +1,16 @@
 {
     "ClassName1.cls": {
-        "createdById": "0057F000000gGWeQAM",
-        "createdByName": "Kalyan Goud",
-        "createdDate": "2017-11-15T07:41:20.000Z",
-        "fileName": "unpackaged/classes/ClassName1.cls",
-        "fullName": "ClassName1",
         "id": "01p7F00000CoRfKQAV",
+        "name": "ClassName1",
+        "createdDate": "2017-11-15T07:41:20.000+0000",
+        "createdById": "0057F000000gGWeQAM",
+        "namespacePrefix": null,
         "lastModifiedById": "0057F000000gGWeQAM",
+        "lastModifiedDate": "2017-11-17T15:44:52.000+0000",
+        "fullName": "ClassName1",
+        "fileName": "unpackaged/classes/ClassName1.cls",
+        "createdByName": "Kalyan Goud",
         "lastModifiedByName": "Kalyan Goud",
-        "lastModifiedDate": "2017-11-17T15:23:04.000Z",
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
