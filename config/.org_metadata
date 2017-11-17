@@ -19,7 +19,30 @@
         "cls": "folder",
         "select": false,
         "expanded": false,
-        "children": []
+        "children": [
+            {
+                "createdById": "0057F000000gGWeQAM",
+                "createdByName": "Kalyan Goud",
+                "createdDate": "2017-11-15T07:41:20.000Z",
+                "fileName": "classes/ClassName1.cls",
+                "fullName": "ClassName1",
+                "id": "ApexClass.ClassName1",
+                "lastModifiedById": "0057F000000gGWeQAM",
+                "lastModifiedByName": "Kalyan Goud",
+                "lastModifiedDate": "2017-11-17T08:22:17.000Z",
+                "manageableState": "unmanaged",
+                "type": "ApexClass",
+                "leaf": true,
+                "title": "ClassName1",
+                "checked": false,
+                "text": "ClassName1",
+                "cls": "",
+                "level": 2,
+                "isFolder": false,
+                "children": [],
+                "select": false
+            }
+        ]
     },
     {
         "id": "ApexComponent",
