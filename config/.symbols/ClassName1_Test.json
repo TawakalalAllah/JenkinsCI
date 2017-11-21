@@ -61,6 +61,17 @@
             "name": "testNum",
             "references": [],
             "type": "Integer"
+        },
+        {
+            "annotations": [],
+            "location": {
+                "column": 20,
+                "line": 9
+            },
+            "modifiers": [],
+            "name": "cn1",
+            "references": [],
+            "type": "ClassName1"
         }
     ]
 }
