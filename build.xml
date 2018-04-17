@@ -1,4 +1,4 @@
-<project name="Salesforce" default="test" basedir="." xmlns:sf="antlib:com.salesforce">    
+<project name="Salesforce" default="deployEmptyCheckOnly" basedir="." xmlns:sf="antlib:com.salesforce">    
 
   <taskdef uri="antlib:com.salesforce"
         resource="com/salesforce/antlib.xml"
