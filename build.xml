@@ -24,7 +24,6 @@
       <echo level="info">Testing the deploy</echo>
       <sf:deploy
           checkOnly="true"
-          logType="Debugonly"
           username="${sf.username}"
           password="${sf.password}"
           serverurl="${sf.serverurl}"
