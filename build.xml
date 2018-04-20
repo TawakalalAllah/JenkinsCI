@@ -14,8 +14,9 @@
         username="${sf.username}"
         password="${sf.password}"
         serverurl="${sf.serverurl}"
-		    runAllTests="true"
+		    testlevel="RunLocalTests"
         deployRoot="src"
+        logType="Detail"
         />
     </target> 
 
@@ -28,7 +29,9 @@
           password="${sf.password}"
           serverurl="${sf.serverurl}"
           deployRoot="src"           
-          runAllTests="true" />
+          testlevel="RunLocalTests"
+          logType="Detail"
+          />
     </target>
 
 </project>
